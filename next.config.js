@@ -6,7 +6,7 @@ module.exports = {
     return [
       {
         source: "/contact",
-        destination: "form",
+        destination: "/",
         permanent: false,
       },
     ];
